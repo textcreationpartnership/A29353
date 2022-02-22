@@ -1,0 +1,971 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The merry jests of Smug the smith, or, The life and death of the merry divel of Edmonton with the pleasant pranks of Smug the smith, Sir John and mine host of the George about the stealing of venison : whereunto is added Mr. Peter's fables and Smugs ghost / by T. Brewer.</title>
+            <author>T. B. (Thomas Brewer)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 87 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29353</idno>
+            <idno type="STC">Wing B4431</idno>
+            <idno type="STC">ESTC R30248</idno>
+            <idno type="EEBO-CITATION">11275534</idno>
+            <idno type="OCLC">ocm 11275534</idno>
+            <idno type="VID">47244</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29353)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47244)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1456:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The merry jests of Smug the smith, or, The life and death of the merry divel of Edmonton with the pleasant pranks of Smug the smith, Sir John and mine host of the George about the stealing of venison : whereunto is added Mr. Peter's fables and Smugs ghost / by T. Brewer.</title>
+                  <author>T. B. (Thomas Brewer)</author>
+               </titleStmt>
+               <extent>[38] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Francis Coles ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Illustrated t.p.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:47244:1"/>
+            <pb facs="tcp:47244:1" rendition="simple:additions"/>
+            <p>The merry Jeſts of SMUG the SMITH, <hi>Or the Life and Death of the Merry</hi> DIVEL of EDMONTON.</p>
+            <p>With the pleaſant pranks of <hi>Smug</hi> the Smith, Sir <hi>John,</hi> and mine Hoſt of the <hi>George,</hi> about the ſtealing of Veniſon.</p>
+            <p>Whereunto is added Mr Peter's Fables. And Smugs Ghoſt.</p>
+            <p>By <hi>T. Brewer</hi> Gent.</p>
+            <figure>
+               <p>Sir John. Mine Hoſt of the George.</p>
+               <p>Smug purſu'd by the Keepers for ſtealing of Veniſon got upon the White Horſe to eſcape his catching.</p>
+            </figure>
+            <p>London Printed for <hi>Francis Coles</hi> dwelling in the Old-Bayley. 1657.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:47244:2" rendition="simple:additions"/>
+            <pb facs="tcp:47244:2"/>
+            <head>The Induction, with a Deſcription of Maſter PETER FABELL.</head>
+            <p>MAſter <hi>Peter Fabell,</hi> otherwiſe called the merry Divell of <hi>Edmonton</hi> (for the many excellent jeſts he did) was a man of good deſcent: and a man, either for his gifts external, or internall, inferior to few: for his perſon he was abſolute; <hi>Na<g ref="char:EOLhyphen"/>ture</hi> had never ſhown the fulneſſe of her skill, more in any then in him: for the other, I mean his great learning (including many Miſteries) he was as amply bleſt as any.</p>
+            <p>Very pleaſant, kind, and free-hearted was he<g ref="char:punc">▪</g> to, or with his familiars: very affable and courteous to ſtrangers, and very li<g ref="char:EOLhyphen"/>berall, full of comiſeration and pitty to the poore and néedy: both abroad from his Purſe, and at home from his Table. In his time very well known to him, and ſometime (in paſtime) very familiar with him were theſe men: <hi>Oliver Smug,</hi> Sir <hi>Iohn</hi> the merry Parſon, <hi>Banks</hi> the Miller, and mine Hoſt of the <hi>George,</hi> in whoſe companies many times for recreation he would ſpend ſome hours. In <hi>Edmonton</hi> he was born, lived and died in the Raigne of King <hi>Henry</hi> th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 7.</p>
+            <div type="tale">
+               <head>How Maſter Peter deceived the Divell with a Candles end.</head>
+               <p>AT the firſt entrance of M. <hi>Peter</hi> into the Art of <hi>Magick,</hi> by charms, ſpels, and incantations, he raiſed a Spirit, and with the Spirit concluded, that if he would be obedient to him, ſerve, help, and further hime at ſuch times, and in ſuch things as he ſhould command, his ſoul ſhould be his reward. This Fire-Brand of Hell (with great ſign of rejoycing) yeelded and ſer<g ref="char:EOLhyphen"/>ved him him (as his ſlave or vaſſale) with very great diligence in many matters and imployments. When this officious ſervant thought he had béen at his command long enough (for no terme or time was ſet at the contract) he demanded his commanders ſoule, as the reward of his pains. Why, (ſaid Maſter <hi>Peter)</hi>
+                  <pb facs="tcp:47244:3"/> I have made thee a promiſe thou ſhouldſt have it, and thou ſhalt have it, but not yet: when it hath left my body (by my death) take it to thée, till then thou mayeſt not have it, ſo reſt thée contented. The Spirit began to threaten, and terrifie him to make him ſet a time of payment for his pleaſure: and ſo affrighted him, that he knew not what or how to anſwer him. Come (quoth y<hi rend="sup">e</hi> Divel) be briefe, for Lucifer every minute looks for that ſoule of thine. Is there no remedy (quoth Maſter <hi>Peter)</hi> wilt thou allow me no time to ſet my buſineſs in order, and take my leave of my friends ere I go? allow me ſome ſmall time for that, and do thy will. Why how long time (qd. the Divell? deſireſt thou I ſhould allow thee? why I faith (quoth Maſter <hi>Peter</hi> no long time: ſpare me but till this inch-long end of candle (pointing to the candle burning in his ſtudy) and take my ſoule. Well (quoth the Divell) though by my charge I can hardly ſtay a minute, Ile ſtay ſo long: about it preſently. If I neglect or oreſlip my time (qd. Maſter <hi>Peter)</hi> take thou the advantage of it: yet one requeſt more thou muſt grant me. What is that (qd. y<hi rend="sup">e</hi> Divel) marry this (qd, Maſter <hi>Pater)</hi> to confirm thy promiſe with an oath: I am very loth to truſt thée on thy bare word, for all the world reputes thée but a knave: there<g ref="char:EOLhyphen"/>fore come ſwear to forbear me till this candle is burned. By hell I will (quoth the Divel) and by great <hi>Lucifer,</hi> as I hope to draw down thouſand ſouls to the déep <hi>Abiſſe</hi> (the place of my abode) I will forbear thée till this candle is burned. Then Maſter <hi>Peter,</hi> preſently after his helliſh protiſttation, put y<hi rend="sup">e</hi> canle out, and into his pocket: look here (quoth he) till this is burnt, thou maye<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t not claime my ſoule: Ile kéep this ſafe enough. Goe I command thée, and tell thy proud Lord <hi>Lucifer,</hi> how finely I have over<g ref="char:EOLhyphen"/>reached thée.</p>
+               <p>When the Divel ſaw he was ſo cunningly deceived by Maſter <hi>Peter,</hi> with many bitter execrations he left him.</p>
+            </div>
+            <div type="tale">
+               <head>How Maſter Peter deceived the Divel again.</head>
+               <p>NOt long after the Divel had béen deceived by the merry Divel Waſter <hi>Peter Fabel,</hi> he went again to him, and find<g ref="char:EOLhyphen"/>ing him a ſléep took the end of the candle (before ſpoken of) out of his pocket, and awaked him: when he had ſo done, he ſhewed him the end of his candle.</p>
+               <pb facs="tcp:47244:3"/>
+               <p> Look here (ſaid he) here is this that thou keptſt to kéep me from my right (thy ſoule I mean) when this is burnt, thy ſoule muſt burn with mine: Ile quickly burn it now Ile warrant thée.</p>
+               <p>When Maſter <hi>Peter</hi> ſaw he had loſt his candle (upon the loſs of which lay the loſſe of his ſoul, if his policy had not helped him out) he intreated him to ſpare him a little longer.</p>
+               <p>No, no (ſaid the Divel) all intreats are vain, thou haſt decei<g ref="char:EOLhyphen"/>ved me once, thou ſhalt deceive me no more. Tis a good world when men are ſo cunning in deceit, as to deceive the Divel: but it is no matter, thou art ſo much the readier for me.</p>
+               <p>Yet here me ſpeak (quoth Maſter <hi>Peter)</hi> as thou likeſt my ſpéech ſo deale with me.</p>
+               <p>Well, be brief then (quoth the Divell) what haſt thou now to ſay?</p>
+               <p>No more but this (qd. Maſter <hi>Peter)</hi> if thou wilt ſpare till my timely death put that thou ſéekeſt into thy hands, Ile labour all the time I have to live for hells advantage: Ile bear more ſoules along with me to hell then twenty of your cunning Divels ſhall.</p>
+               <p>Shall I once more truſt thée (quoth the Divel) on thy word? well, ſwear, why (ſaid Maſter <hi>Peter)</hi> by the black river <hi>Lu<g ref="char:EOLhyphen"/>cifer</hi> thy Lord ſwears by I ſwear I will: and when I am buri<g ref="char:EOLhyphen"/>ed, either within the Church, without the Church, in the Church-porch, Church-yard ſtréet, field, or high way take thou my ſoule.</p>
+               <p>Well (qd, the Divel) in hope thou wilt gain me many ſoules to thine, take thy reſt, and ſo he left him.</p>
+               <p>Many years after, when Maſter <hi>Peter Fabel</hi> by his whte hairs weakneſſe, aches, and ſuch like ſigns, perceived he could not live long: he went and digd his deathbed in the Churchwall, and there reſted day and night heartily praying &amp; repenting him of all the evell he had committed.</p>
+               <p>When the hour was well nigh come, that ſhould ſeparate his ſoule and body, the Divell went to him again and blam<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d him for neglecting his buſineſſe by promiſe, and withal told him y<hi rend="sup">t</hi> he wa<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> come for his ſoule. Wh<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n Mr. <hi>Peter</hi> heard that word he pre<g ref="char:EOLhyphen"/>ſently ſtarted up, and charged him to depart, my ſoul (ſaid he) y<hi rend="sup">u</hi> comeſt too ſoon<g ref="char:punc">▪</g> and yet too late to have it, he that redéemed my ſoul hath took't to kéep, thou canſt not have it.</p>
+               <p>Didſt thou not ſwear qd. the Fiend, that I ſhould have <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb facs="tcp:47244:4"/> ſoule at the hower of death? thou didſt, and I will have it. I (ſaid M<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſter <hi>Peter)</hi> when I am buried either within the Church, without the Church, in the Church-porch, Church-yard, ſtréet, field, or high way, take thou my ſoule.</p>
+               <p>Sée fooliſh fiend thou art deceived again, this hole is my grave, if this be either within the Church, without the Church, in the Church-porch, Church-yard, ſtréet, field, or high-way, my ſoule is thine: thou ſéeſt it is not, therefore I charge thée (ſo deceived) depart. Still the Divell was eager on him for his ſoule till at laſt by his earneſt prayers and zealous Invocations, he for'ſt him to run ro<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ring to hell again wthout it.</p>
+            </div>
+            <div type="tale">
+               <head>How Maſter Peter Fabell puniſhed a Fryer and his Lemon for their knavery.</head>
+               <p>MAſter <hi>Peter Fabell</hi> one morning very early, walking in the fields (as his cuſtome was, to meditate by himſelf) ſpied a Fryer at prayers upon his beads very devoutly: when <hi>Mr. Pe<g ref="char:EOLhyphen"/>ter</hi> ſaw him ſo earneſt in his prayers, he went to him, &amp; demand<g ref="char:EOLhyphen"/>ed him what his reaſon was, that his chamber would not ſerve for his prayers, as well as that place. Oh! Sir (ſaid the Frier) all places are alike to me for this buſineſſe, and all times, for I pray when the prick of conſcience comes upon me, in what place, or at what time ſoever. I commend thée much (qd Maſter <hi>Peter)</hi> thou art an honeſt fellow, and ſo for that time they parted.</p>
+               <p>The next morning Maſter <hi>Peter</hi> went again: and again found the Fryer in the place where he left him y<hi rend="sup">t</hi> morning before, ſo de<g ref="char:EOLhyphen"/>voutly praying, but not at the holy exerciſe, y<hi rend="sup">e</hi> ſpirit did not move him unleſſe the evill ſpirit moved him, for inſtead of his book and beads, he had got a wench and ſat colling her ſo cloſe, and kiſſing her ſo thick, kiſſe upon kiſſe, that ſhe could hardly fetch her wind for him. A good while ſtood Maſter <hi>Peter</hi> behind a hollow trée un<g ref="char:EOLhyphen"/>ſéen, ſéeing them trick and toy together, at laſt to fright them from their venery, he went into the trée, and with a heavy hollow voice, cryed out to the Frier in this manner: Frier, Frier, Frier, the Frier hearing a voice, preſently ſtarted up, &amp; looked round a<g ref="char:EOLhyphen"/>bout him to ſée if he could find the Maſter of that tongue that ca<g ref="char:EOLhyphen"/>led him: but in vain he ſtood looking, for he ſtood farre enough from his eye, though he were cloſe to his ear. When the Frier had ſtood a good while looking about him, firſt on the one
+<pb facs="tcp:47244:4"/> ſide, then on the other, and could ſpy no body, like a kind lecherous bald-pats, very hanſomely, or rather very knaviſhly, he went to his wench again. He was no ſooner laid down, but M<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſter <hi>Peter</hi> the ſecond time cryed out (to diſturbe him) Frier, Frier, Frier. At the ſecond call the Frer halfe affrighted ſtarted up againe, and lookt about him (a tip toe) to ſée if he could finde a body to that voice but he found none.</p>
+               <p>Now our Lady defend us (quoth the Frier to his wench) what voice is this that calls me ſo oft? Didſt thou not hear it? yes faith ſwéeting (quoth ſhe) I heard ſome body call to thée: canſt thou not ſée him?</p>
+               <p>No faith chuck (quoth the Frier) I can ſée no man: and yet ſurely this voice is the voice of a man. But it is no matter, let it be what it will if we cannot ſée it, ſure we cannot féele it. Come chuck let's buſs and be merry, be of good comfort and croſs thy ſelf, &amp; I warrant thée ſafe for a farthing, down lay old bald-pate again: but before he could give her three kiſſes, the voice raiſed him the third time, crying as before, Frier, Frier, Frier. Th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n the Friers face began to bewray his fear: he had no more colour in his face at that time, (though at all other times he had colour enough) then one of theſe fine whay-fac'd Oate-meale eaters, or a wench troubled with the gréen ſickneſſe.</p>
+               <p>Frier, Frier, Frier, (ſaid Maſter <hi>Peter)</hi> (ſtill kéeping him<g ref="char:EOLhyphen"/>ſelf cloſe in the hollow trée) he that ſées thée now, unſéen of thée, ſées at all times, in all places, and all theſe thy actions.</p>
+               <p>Here yeſterday I ſaw thée at thy prayers very devoutly, with thy book and heads, is this the book thou bringeſt to pray on now? doth the prick of conſcience move thée to do this? ſpeak thou black ſinner. There thou haſt red thy damnation without preſent repentance and penance. Therefore preſently both of you if you reſpect more y<hi rend="sup">e</hi> good of your ſouls, then of your bodies, by the pen<g ref="char:EOLhyphen"/>nance I ſhall appoint you purge your ſelves: when the Frier &amp; his wench heard theſe words, they were verily perſwaded in their minds that it was the voice of an Angel, they both knéeled down very reverently together, and ſaid<g ref="char:punc">▪</g> thy will be done: appoint our pennance, and we are ready (wi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h all willingneſſe) to endure it. Then (ſaid Maſter <hi>Peter)</hi> you both ſhall preſently be whipt from this place (the place where you offended) into the Town and a<g ref="char:EOLhyphen"/>bout
+<pb facs="tcp:47244:5"/> the Town. This ſuffer &amp; deſire you to be done by the next man comes néer you, and this ſin is forgiven you, refuſe this and deſparing dye dam'd wretches.</p>
+               <p>This or what elſe it ſhall pleaſe thée to inflict or lay upon us, for this ſinne (quoth the Frier) we will patiently ſuffer.</p>
+               <p>Then Maſter <hi>Peter</hi> preſently ſtept out of the hollow trée, and went (very cunningly) round about the back ſide of a hedge, and came directly upon them, as if he had meant to paſſe by them.</p>
+               <p>As ſoon as ever they ſaw him, they verily humbly on their knées told him how that in a place they had offended, and for that offence they were by the voyce of an Angell, commanded to take preſent pennance, or their ſouls could not be ſav'd.</p>
+               <p>And what (ſaid maſter Peter) is the pennance ommanded.</p>
+               <p>Marry this (ſaid the Frier,) to be whipt by the next man came néer us, from this place (the place where we offended) to the town, and about the town, and this ſin ſhould be forgiven us. If we refuſe this (this was our heavy ſentence) to live in diſpair and die dam'd wretches.</p>
+               <p>This therefore is our requeſt ſir (you being the man by y<hi rend="sup">e</hi> An<g ref="char:EOLhyphen"/>gell appointed) that you would perform your part appointed, while we (very patiently) bear the reward of our wickedneſſe.</p>
+               <p>Well (qd. Maſter <hi>Peter)</hi> though I am loath to plea the Beadle, Ile do thy requeſt, you ſhall not be damd for want of a whipping.</p>
+               <p>To be ſhort, Maſter <hi>Peter</hi> tyed the right hand of the Frier, and the left hand of his wench together, and having ſo done (with a ſound ſmarting rod of willow) Ierkt them to the Town before him.</p>
+               <p>There in the view of all the people, he laſht them from one end of the Town to the other, telling them at every ſecond or third ſtripe of the hainouſneſſe of their fault. When he had thus ſound<g ref="char:EOLhyphen"/>ly whipt, the lecherous bald-pate, and his Lemman, with moſt pitti<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ull bloody backs, he left them, and looſing their hands, he ga<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e the Frier this caveat.</p>
+               <l>Take heed good Frier, of Venus fire,</l>
+               <l>You ſee the hire, of foule d<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſire.</l>
+               <p>And ſo farewell, I have done your requeſt, if at any time you have occaſion to uſe me, in ſuch a piece of ſervice, command me.
+<pb facs="tcp:47244:5"/> Away went he very hartily laughing, and the Frier and his wench very heavily wéeping.</p>
+            </div>
+            <div type="tale">
+               <head>How Smug won a wager of Maſter Peter Fabell by a trick that he did.</head>
+               <p>AS on a day Maſter <hi>Peter Fabell,</hi> (an excellent Schollar and well ſéen in the Art of Magick) was conferring with certain of his friends about certain buſineſs and imployments, <hi>Smug</hi> being in the hearing of them, betwéen drunk and ſober (for he had béen plying the Pitcher in Maſter <hi>Peters</hi> ſellar) ran nodding in amongſt them; and the very firſt word he ſpake to them was how do you my Maſters. They being in very ſerious talke, un<g ref="char:EOLhyphen"/>willing to be diſturbed with his fooliſh babling, with very faire words, requeſted him to leave them a little, and within halfe an houre (or ſuch a thing) they would give him the hearing of that which he had to ſay to them. But he like an importunate begger then he would not leave them till he had ſpoke his mind to Mr. <hi>Peter.</hi>
+               </p>
+               <p>When they ſaw there was no remedy, but he would have his will, come (ſaid Maſter <hi>Peter)</hi> honeſt <hi>Oliver</hi> be briefe, utter thy ignorance roundly, what haſt thou to ſay to me mow? Marry qd. <hi>Smug,</hi> Maſter <hi>Peter,</hi> I hear ſay you are a very cunning Gentle<g ref="char:EOLhyphen"/>man, and that you have done as many fine tricks &amp; feats in your time as ere a Iugler in Europe has done, what will you ſay now if a plain fellow, a hard-handed labourer, a poore leatherne-apron<g ref="char:EOLhyphen"/>wearer, do ſuch a cunning trick, as you Maſter <hi>Peter,</hi> with the helpe of all your great gogle-eyde, bottle-noſ<g ref="char:punc">▪</g>d, blobber-lipt, blad<g ref="char:EOLhyphen"/>der-chéekt, béetle-browed, ex-headed deteſtable Divels cannot do the like. Why ho<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſt <hi>Smug</hi> quoth Maſter <hi>Peter,</hi> who or where is he that will do this? Marry (qd. <hi>Smug)</hi> I am he. Art thou he quoth Maſter <hi>P<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ter?</hi> Who would think thou hadſt ſuch tricks in thy budget? Pr<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tée <hi>Smug</hi> tell me, doſt not thou (as thou ſayeſt I doe) u<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e the helpe of ſome infernall? haſt thou no Divell in thy trick? come tell me: Divell quoth <hi>Smug,</hi> marry God bleſſe me Maſter <hi>Peter,</hi> I cannot indure to look upon thoſe filthy foule-mouthed fire-ſpitters, no Maſter <hi>Peter.</hi> What I do I will doe of my extraordinary wit and invention. Well lets hear quoth Mr. <hi>Peter,</hi> wh<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t is it you will do? Marry this Ile doe quoth <hi>Smug,</hi>
+                  <pb facs="tcp:47244:6"/> Ile ſet a candle burning in the midſt of this roome where we all are, open and eaſie to be ſéen as my han<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>: this <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> M, <hi>Togood</hi> ſhall ſee, Maſter <hi>Dauby,</hi> Maſter <hi>Dauty,</hi> Miſtris <hi>Friskin,</hi> and my man <hi>Ralph,</hi> here yet you ſhall not ſée it, maſſe <hi>Smug</hi> (qd. Maſter <hi>Peter)</hi> if thou canſt do ſuch a <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ck, th<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> put'ſt me down indéed. Come begin, let us ſée it done nay firſt (quoth <hi>Smug)</hi> let as have a lay upon it, I will not ſhew my ſkill for nothing. Agréed (quoth Maſter <hi>Peter,</hi> what ſhall the <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ager be? why <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ith (quoth <hi>Smug)</hi> Maſter <hi>Peter</hi> you know my mind, for that I lo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e all<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ies when I make a wager, rather to have it in <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>en dry, for you know Maſter <hi>Peter</hi> I am dry my ſelf, and ye ſay the word, the wa<g ref="char:EOLhyphen"/>ger ſhall be a dozen of double Ale, you know I am merry <hi>Smug,</hi> and merry <hi>Smug</hi> muſt have his merry goe down, or elſe he is no body. Well I agrée (qd. Maſter <hi>Peter)</hi> here is my hand, if thou perform what thou haſt ſaid, Ile looſe, and Ile pay it. Then <hi>Smug</hi> cal'd for a candle and candleſtick, which when he had placed M. <hi>Peter</hi> in the middle of the roome, and ſet the candleſtick with the candle burning upon his head: now M. <hi>Peter</hi> ſaid he doe you ſée this candle: why no (qd. M. <hi>Peter)</hi> how ſhould I ſée it? is it poſ<g ref="char:EOLhyphen"/>ſible for a man to ſée the crown of his head? you cannot ſée it then quoth <hi>Smug,</hi> no I cannot ſée it ſaid he.</p>
+               <p>Then <hi>Smug</hi> demanded of the reſt, before named, whether they did fee it or no, they all anſwered I, asking how they ſhould chuſe but ſee it, and yet you cannot ſee it, they ſay they cannot chuſe but ſee, and yet you ſay it is impoſſible for you to ſee it.</p>
+               <p>Come Mr. <hi>Peter,</hi> you know what you have loſt? if there had been a Kingdom laid on it, when Mr. <hi>Peter</hi> ſaw how pret<g ref="char:EOLhyphen"/>tily <hi>Smug</hi> had overreached him, he ſmiling ſent for his loſſes, and in paſtime made <hi>Smug</hi> take his well won liquor ſo ſoundly, that he lay by the walls that night.</p>
+            </div>
+            <div type="tale">
+               <head>How Smug when he was made drunk, would needs go to fight with the ſhadow of a ſword and Buckler.</head>
+               <p>
+                  <hi>SMug</hi> one day being angred among a company of true drunk<g ref="char:EOLhyphen"/>ard<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> like himſelf, came chaſing out of the Alehouſe, like a mad man, as you know drunkards and mad men are not much unlike, vowing to be revenged, or he would never drink draught of
+<pb facs="tcp:47244:6"/> good drink again, as long as he had a day to live, &amp; ſo chaſing réel<g ref="char:EOLhyphen"/>ing homeward, as faſt as his legs would give him leave.</p>
+               <p>This réeling infirmity threw poor <hi>Smug</hi> from poſt to poſt, and from wall to wall, here he knockt his face againſt one ſtock, there againſt another, till half the wild blood in his body was run out at his noſe.</p>
+               <p>Still on he <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>aggered, till he came to a ſeat neer his home under a ſign of the ſword and buckler: where he ſate a while to reſt him, and as he ſate like an honeſt man carefull to kéep both ends to<g ref="char:EOLhyphen"/>gether, caſt vp, as néere as he could without either <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en or coun<g ref="char:EOLhyphen"/>ters, what he had received in the day before.</p>
+               <p>But all his caſting could not caſt the remembrance of his quar<g ref="char:EOLhyphen"/>rell out of his mind: for ſtill be ſate railing againſt his <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ot-com<g ref="char:EOLhyphen"/>panions moſt grievouſly, calling <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hem Scound<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>els, ſcabs, ſlaves, Knaves, and perpetually damb'd or drunken Rogues.</p>
+               <p>As he ſat thus, fretting and chaſing vowing to be revenged, ſpyed, as he ſhought the inſtruments of revenge lying before him: for it was a faire Moon-ſhine night, and the ſhadow of the ſ<gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e he ſafe under, ſéem to him to <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e no loſſe then that it came off, the very ſword and buckler that h<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng over his head, unſéen or un<g ref="char:EOLhyphen"/>thought off.</p>
+               <p>Now you Rogues and Raggamuffins (qd. <hi>Smug)</hi> Ile tickle y'faith, Ile <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'ne make no more adde but take up my tooles and to them again, by <hi>Pharaoh,</hi> by thi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Sunne</hi> that ſhines ſaies he (and looked up to the M<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n) Ile kill them all, though every one of them had as many lives as a Cat: preſently keeping to take up his ſup<g ref="char:EOLhyphen"/>poſed ſword and buckler, he fell flat on the ground (for his head was ſo h<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>avy, that when he ad put it downwards, he could not raiſe it up again for his life.) There lay he ſprawling and grope<g ref="char:EOLhyphen"/>ing about to get his ſword and buckler into his hands, ſo long that he fell <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſt a <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, and waked not till morning, he was fetch<g ref="char:EOLhyphen"/>ed home by a couple of his honeſt neighbours.</p>
+            </div>
+            <div type="tale">
+               <pb facs="tcp:47244:7"/>
+               <head>How Smug laid a wager with certaine Shoomakers that he was a Shoomaker, proved it, and wone the wager.</head>
+               <p>THrée or foure honeſt good fellows of the gentle craft, travel<g ref="char:EOLhyphen"/>ling together with Sir <hi>HUGHES</hi> bones at their backs to get work, paſſing through <hi>EDMONTON,</hi> went to an Ale-houſe the next doore to <hi>Oliver Smugs,</hi> to drink, where when they had ſit<g ref="char:EOLhyphen"/>ten a quarter of an houre, or there abouts, drinking healths, very kindly and courteouſly, one to another, and to all good fellows of their crafts and acquaintance, to make themſelves merry, they ſung a ſong in thrée parts very orderly and well.</p>
+               <p>
+                  <hi>Smu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> (as he was at his work) hearing them ſing ſo merrily, preſently left his work and went to them again, bearing in either hand a full can of the beſt liquor.</p>
+               <p>Here my old Lads of mettle (quoth he) here's to you, and to all good fellow Shoomakers in Europe, of which number (for want of a better) I my ſelf make one.</p>
+               <p>Why ſir (quoth one of them) are you one of the gentle craft? faith quoth <hi>Smug</hi> I am as I tell you, and honeſt good fellow, and a Shoo-maker, and for the love I bear to all kind Shooe-makers, I have made thus bold to come and drink with you.</p>
+               <p>They all very courteouſly welcomed him into their company, and made him <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>it down amongſt them.</p>
+               <p>When they had ſitten a good while together drinking &amp; ſing<g ref="char:EOLhyphen"/>ing very merrily, one being a mad wag amongſt them (above all the reſt) ſuſpecting <hi>Smug</hi> to be (as he was indéed) a Smith; look<g ref="char:EOLhyphen"/>ed very earneſtly upon him, and about him to finde ſomething a<g ref="char:EOLhyphen"/>bout him that might truly tell him whether he was as he ſaid he was yea or no.</p>
+               <p>At laſt prying very narrowly, he ſpyed his hammer hanging underneath his Apron, in a great round braſſe ring.</p>
+               <p>Then halfe angry with <hi>Smug,</hi> becauſe he told him he was a Shoomaker and was not, he began to jeſt, ſlout and ſcoffe at him, ſhewing to the reſt of his fellowes and companions the hammer that hung under his apron.</p>
+               <p>Why (ſaid another of them) my honeſt friend, came you he<g ref="char:EOLhyphen"/>ther to ſlout us? wherefore have you told us you are that you are
+<pb facs="tcp:47244:7"/> not? Why (quoth <hi>Smug)</hi> what did I tell you I was? why (quoth he) you did tell us you were as we are, a Shoomaker I did indéed (quoth <hi>Smug)</hi> I told you ſo, and again I tell you ſo, and will make good my word upon a wager with the beſt of you all, agréed (quoth one) what ſhall the wager be?</p>
+               <p>Why yfaith (quoth <hi>Smug)</hi> I think you doe intend to travell no farther then this town to night, and you ſay the word, the wager ſhall be a ſhot of ſixe ſhillings to be ſpent in ſhear drink: what ſay you ſirs, are you contented with it? if you be, ſtrike hands and a match.</p>
+               <p>A match ſaid they) I know ſaid one of them you are a Townſ<g ref="char:EOLhyphen"/>man, and therefore we ſhall not need to go far for a touch-ſtone to try you.</p>
+               <p>Preſently came a Serving-man into the Ale-houſe to <hi>Smug,</hi> and deſired him for Gods ſake to give over his drinking and to go to work, for his Maſters Horſe ſtaid for ſhooes: what doe you now think my Maſters (quoth <hi>Smug)</hi> you ſée I now am ſent for, and muſt go preſently to put on a paire of ſhooes, will you yeild you have loſt? why look you here then my bullies, here's a ſhooe, pulling a Horſeſhooe out of his pocket, of his own making, what ſay you now? am I a Shooe-maker yea or no? A Shoo-maker (qd. one of them) here is a ſhooe in deed but it is a Horſeſhooe, nay (qd. <hi>Smug)</hi> Ile prove it to be ſhooe &amp; no Horſe ſhooe, for I made it for <hi>Moſſe</hi> his Mare of <hi>Endfield,</hi> but be it mares or Horſes ſhooe a ſhoo it is, &amp; I the maker, <hi>Ergo</hi> I am a Shoomaker becauſe I made it.</p>
+               <p>Therefore come, deliver your purſes of a five ſhillings péece, or ſo many ſmall pieces as amounts to ſo much, &amp; let us ſtand cloſe to our liquor for I think long till I fée it.</p>
+               <p>The Shoomakers for all this would not yéeld they had loſt, but would néeds have him into the Town for further tryall: But all gave judgement on <hi>Smugs</hi> ſide, that he was a Shooemaker, &amp; had wone the wager. Then the ſhoomakers when they ſaw there was no remedy, turned back with <hi>Smug</hi> to their old hoſteſſe, and paid their loſſes, with the loſſe of their wits for that night.</p>
+            </div>
+            <div type="tale">
+               <head>How merrily Smug anſwered one that gave him good counſell.</head>
+               <p>SMug one day being ſet in the midſt of his merry <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſwag<g ref="char:EOLhyphen"/>gerting and ſwilling very quick in c<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ling &amp; <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>lling in for
+<pb facs="tcp:47244:8"/> more as if he had <hi>Fortunatus</hi> his purſe in his pocket, was by an honeſt well governed man, that ſate by, (and noted his humour) ſharply reproved, and after reprehenſion, kindl yadmoniſht him with theſe enſuing verſes,</p>
+               <l>
+                  <hi>It thou the name of Husband good wouldſt have,</hi>
+               </l>
+               <l>
+                  <hi>Then toyle to get, and getting, getting ſave:</hi>
+               </l>
+               <l>
+                  <hi>For he his gettings cannot wiſely keep;</hi>
+               </l>
+               <l>
+                  <hi>Shall wake with care, when ſavours ſoundly ſleepe.</hi>
+               </l>
+               <l>To which <hi>Smug</hi> merrily, and very readily made this anſwer,</l>
+               <l>
+                  <hi>Alas good ſir, good husbands name,</hi>
+               </l>
+               <l>
+                  <hi>My Dad nere had before me:</hi>
+               </l>
+               <l>
+                  <hi>For me to ha't then, t'were a ſhame,</hi>
+               </l>
+               <l>
+                  <hi>As long as Kate will ſcorne me.</hi>
+               </l>
+               <l>
+                  <hi>(As Parſon plie-po<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, counſels here)</hi>
+               </l>
+               <l>
+                  <hi>Ile freely take my liquer,</hi>
+               </l>
+               <l>
+                  <hi>It makes good bloud, the fight more cleare,</hi>
+               </l>
+               <l>
+                  <hi>And dull wit gr<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>w quicker.</hi>
+               </l>
+               <p>And ſo fell to his liquor again, till (contrary to his merry an<g ref="char:EOLhyphen"/>ſwer) it made his quick wit grow duller: for within one half hour or more, he had not one wiſe word to ſpare, though he might have had a Kings ranſome for it.</p>
+            </div>
+            <div type="tale">
+               <head>How Smug was frighted by the Nuns of Cheſtone, thinking them to be Spirits, and how after<g ref="char:EOLhyphen"/>ward he frighted them by his ſud<g ref="char:EOLhyphen"/>dain appearance.</head>
+               <p>
+                  <hi>SMug</hi> on a time, as he was ſtealing Veniſon, hearing the Kée<g ref="char:EOLhyphen"/>per in the Park, got up into a trée, to kéep out of ſight till he were paſt by him which he did: ſcaping the Kéepers eye, and ſo conſequently his hand, very hanſomely. But ſitting there a little while, prying and péeping betwéen the branches (like an O<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>le in an I<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y buſh) to ſée, if the coaſt were cleare, he ſpied the Mother Nun of <hi>Cheſtone,</hi> with thrée or foure young ones (attired in white long robes, with railes and ti<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>its, as they uſed to weare) coming towards him with a little bell rung before them, ſprink<g ref="char:EOLhyphen"/>ling holy-water, and praying upon their beads very devoutly:
+<pb facs="tcp:47244:8"/> withall the circumſtances of that ceremony they uſed when they received a ſiſter into that holy order.</p>
+               <p>The very ſight of theſe holy creatures, made <hi>Smug</hi> quiver, quake and ſhake like the leaves of the trée he ſate upon, for he thought verily that they had been <hi>Spirits Furies, Fiends,</hi> or <hi>Hob<g ref="char:EOLhyphen"/>goblins,</hi> that came thither a purpoſe to carry him away for ſteal<g ref="char:EOLhyphen"/>ing of <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> but they (poor ſouls) ment no more harm to him, then <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e to them, but paſt by, not caſting ſo much as a look upon him.</p>
+               <p>When they were p<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt him, his heart (that till then was as hea<g ref="char:EOLhyphen"/>vy us a <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aind ſpittle-mans) was as light as a <hi>Mor<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>is Dancers:</hi> And very lightly from knot to knot) got he from the top of the trée, thinking to have runne to his fellows that ſtayed for him: but by that time he was gotten from the bowes to the root, the Ni<gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> was turned back again upon him.</p>
+               <p>When he ſaw there was no way to get from them, ſuddainly he ſtept right before them and upon his knées with a <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>retcht throat (like an <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> bawling Broom-man) deſired them for Gods ſake not to hurt him, and he would never walk ſo late a Déer-ſtealing again while he lived and ſtill he yawled and bawled (with his hands claſpt together in very pittifull manner, as though he would have rent his wind-pipe.</p>
+               <p>The good old Nun, ſo ſuddenly encountred, by ſuch a roaring raggamuffin, knew not what to do, but ran as f<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſt from him as ere ſhe could and all her young ones after the Dam, ſhe run not ſo faſt one way to leave him, but he run as faſt another way to leave her, and to find out his fellows. When he had found them, he told them (in boaſting manner, how he met with a company of Spirits in the Park, and they durſt not abide the ſight of him. Therefore be of good chear my Maſters (ſaid be) if ſpirits be af<g ref="char:EOLhyphen"/>fraid to look upon me, and run ſo faſt from me, I hope the ſneak<g ref="char:EOLhyphen"/>ing Kéeper dares not abide my fury, and ſo they paſt on againe to their thieving paſtime.</p>
+            </div>
+            <div type="tale">
+               <pb facs="tcp:47244:9"/>
+               <head>How Smug preſuming upon his courage, after his exploit, (frighting theſe ſuppoſed sp<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rits) would needs go the next evening again a Deere-ſtealing: and how deare <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> he paid for it.</head>
+               <p>THe next evening <hi>Smug</hi> and his fellows went again a Déer<g ref="char:EOLhyphen"/>ſtealing, but it was a dear Déerſtealing to him &amp; the reſt of his companions for they has not béen in the Pack above a quarter of an houre privily peaking about for their prey, but they ſpyed the Kéeper well weaponed with his great maſtive dog at his héeles. Now out alas ſaid the Par<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on, what ſhall we do my Maſters? what ſhall we do? g<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <hi>Banks</hi> as thou art an honeſt Miller, and wouldeſt have me pray for the forgiveneſſe of tolediſh ſinne, tell me what I ſhall doe.</p>
+               <p>Why alas good Sir <hi>Iohn</hi> (quoth the Miller) what ſhould I tel you, I know neither what to do nor ſay for my ſelfe? what ſay<g ref="char:EOLhyphen"/>eſt thou <hi>Smug,</hi> thou ſéeſt we are all in danger: I prethée good <hi>Oliver,</hi> as thou loveſt a good fellow, and good fellowſhip, as thou loveſt that, thou knoweſt we all love good liquor, give us ſome good counſell, and good <hi>Smug be brief,</hi> for thou ſéeſt our deſtru<g ref="char:EOLhyphen"/>ction is at hand.</p>
+               <p>Why alas my Maſters ſaid <hi>Smug,</hi> what would you have me to do? by Vulcan I proteſt, I know not what to ſay to you: I would I were at my Forge, you good Sir <hi>John,</hi> a ſleep in the bellfrey, and <hi>Banks</hi> in his Mill, or I would we were all there, that we might be as ſafe as a thief in a Mill.</p>
+               <p>As they ſtood there prating and talking the one to the other, they ſaw the Keeper coming directly towards them: Oh now <hi>Sumg</hi> (qd. Sir <hi>
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ohn)</hi> ſtick to us all my truſt is in thée, I prethée <hi>Smug</hi> ſhew thy ſelf as valiant now againſt this Keeper, as thou didſt a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ainſt the Spirits and Hobgoblins thou metteſt here the other night.</p>
+               <p>If thou beeſt remembred thou gaveſt us words of comfort then and didſt did us all be of good cheere and fear nothing, for thou ſaidſt thou wouldſt make the ſneaking Keeper ſly from thee, as faſt as thou madeſt them ſlie. Now honeſt <hi>Oliver,</hi> be as good as thy word, make them fly &amp; defend us, &amp; I even I, Sir <hi>John</hi> your mad merry Parſon, will pray to God for thy health and welfare,
+<pb facs="tcp:47244:9"/> as long as I have a day to drink in: Why content you ſit <hi>Iohn</hi> (ſaid <hi>Smug)</hi> Ile ſée what I can do, go you two and lye cloſe be<g ref="char:EOLhyphen"/>hind that hedge: It I have but as good luck againſt this ſcurvy Kéeper this night, as I had againſt my little long-taild Hobgob<g ref="char:EOLhyphen"/>lins y<hi rend="sup">e</hi> laſt night, wéel no leave the Park, without that we came for. They (as ſmug told them) went behind the hedge &amp; left him alone to deale with the Kéeper: but alas for all his big looks, and <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>aving worde<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Kéeper thwackt him ſo ſoundly, that he made him lye ſp<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ling on the ground, and ſo left him.</p>
+               <p>When the Miller and the Parſon (pée ping through the hedge) ſaw the Kéeper gone, &amp; póor <hi>Smug</hi> lye in ſuch a pittiful caſe, they went to him, now alas poore <hi>Smug</hi> (ſaid Sir <hi>Iohn)</hi> how iſt? what chear man? I perceive your <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>utious looks could not fright away the Kéeper, as if did the Spirits you told us of.</p>
+               <p>Oh ſir <hi>Iohn</hi> (ſaid <hi>Smug)</hi> this Kéeper is a Divell, he hath paid me yfaith, &amp; yet all theſe blows grieve me not ſo much ſir <hi>Iohn,</hi> as that you and my neighbour Miller did not ſtay to take part with me, for you would have had your <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hare in the Veniſon as déep as I and I had thought he had béen wo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fe to denie withall then Spirits, the Divell ſhould have dealt with him ere I would have come into his <gap reason="illegible" resp="#APEX" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ches.</p>
+               <p>
+                  <hi>Smug</hi> had no <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſpoke this word, but the Keeper was upon them again, and mightily imaged againſt them all, gave the Mil<g ref="char:EOLhyphen"/>ler and the Parſon as much as he had given <hi>Smug,</hi> and ſent them all halting home together.</p>
+            </div>
+            <div type="tale">
+               <head>How Smug, was revenged upon a Barber, (his Rivall) that made him kiſſe his taile.</head>
+               <p>AS honeſt <hi>Smug</hi> loved (as he lo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed his life) the ſociety of his bearded a<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> defated, ſo in like manner, loved he ſometime to be mad merry, amongſt a mad company of his bare-chind boone companions, his little wanton Wagtailes: his ſwéet and twen<g ref="char:EOLhyphen"/>ties: his pretty pinckinyed pigmies, &amp;c. as he himſelf uſed com<g ref="char:EOLhyphen"/>monly to call them.</p>
+               <p>Amongſt all the kind Laſſes he uſed to kéep company withall, one (above all) he beſt loved, &amp; by that one whom he lov'd (above all) he was leaſt loved: for fine <hi>Philip</hi> the Bather had ſo laboured
+<pb facs="tcp:47244:10"/> in trimming his beſt beloved <hi>Barbara</hi> (for ſo ſhe was called) that he when he came to her was as welcome as water in a Ship bad news to a ſore grieved perſon or the ſhadow of a man to the long<g ref="char:EOLhyphen"/>ing Miſtris, of a long kept Maiden-head.</p>
+               <p>To be ſhort, one evening <hi>Smug</hi> went to ſée his ſwéet <hi>Barbara,</hi> but when he was come where he thought to have béen very kind<g ref="char:EOLhyphen"/>ly welcome, to the houſe of his beſt beloved, to his great griefe he found the doors locked, bard, or bolted againſt him: ſhe he lookt for look'd not for him, nor any other at that time: For the (as a<g ref="char:EOLhyphen"/>ny kind whore will be) was content with one at once, and one ſhe had: The Divell had put the <hi>Barber</hi> and ſhe together, and ſhe was very loath that any man ſhould put them aſunder. A good while <hi>Smug</hi> ſtood knocking, but no body would ſtir to let him in, then he went to the window, and there he kept a whewing, and a whiſtling to raiſe her, but all would not do: Then he fell to knoc<g ref="char:EOLhyphen"/>king with his knuckles againſt the caſement, and laſt raiſed the <hi>Barber</hi> out of <hi>Barbaras</hi> bed, not in his own likeneſſe, but in y<hi rend="sup">e</hi> like<g ref="char:EOLhyphen"/>neſſe of <hi>Barbara</hi> his beſt beloved: for the <hi>Barber</hi> like a ſubtile knave ſlipt on his bedfellows peticote, night-raile, and head-tire which became his hair-leſs face, as wel as hers it was made for, &amp; ſo went to y<hi rend="sup">e</hi> window in <hi>Barbaras</hi> apparel, he ſpake <hi>Barbaras</hi> voice as néere as he could, and paſt as currantly with <hi>Smug</hi> in confe<g ref="char:EOLhyphen"/>rence, as could be wiſht. After many loving words, <hi>Smug</hi> deſired he might have a kiſſe ere he parted, for the <hi>Barber</hi> (for <hi>Barbara</hi> had told him he might by no means be let in at that time.</p>
+               <p>This kind he-ſhe very lovingly yéelds. I prethée ſwéet <hi>Smug</hi> (qd. this fine counterfeit) com buſs me through this broken pane, that I will, yfaith (qd. <hi>Smug)</hi> with a good will as ere I came from ſchoole, or went to the Ale-houſe: then I prethèe Smug (qd. the <hi>Barber</hi> come ſmack me quickly that I may to be: again, and to morrow Ile meet thee where thou wilt appoint: why come ſweet heart (quoth <hi>Smug)</hi> I am ready, and thruſt his lips as far as he could thorow the broken paine, againſt <hi>Smugs</hi> lips, the <hi>Barber</hi> inſtead of his lips turned his AR. his lips I ſhould have ſaid: <hi>Smug</hi> ſmackt, &amp; ſmackt that ſweetly five or ſix times together ere he could tell what he kiſt. At laſt he perceived he was plaid the knave with all and by whom: yet in policy very pa<g ref="char:EOLhyphen"/>tiently put it up and with theſe words took his leave. Farewell
+<pb facs="tcp:47244:10"/> ſwéet <hi>Barbara,</hi> for the kindneſſe thou haſt ſhown me at this time, for all thy former kindneſſe and theſe ſwéet kiſſes, I reſt by thée to thée to be commanded, whenſoever, whereſoever, and in what<g ref="char:EOLhyphen"/>ſoever thou pleaſeſt, and ſo ſwéet <hi>Barbara</hi> for a while God be with thée.</p>
+               <p>To bed went the Barber again, and <hi>Smug</hi> as faſt as he could foot it homewards: as late as he was when he came whome, he found his folks hard at work, and a heate in the fire ready to be ſtricken out. <hi>Smug</hi> preſently took the iron out of the fire (ſpark<g ref="char:EOLhyphen"/>ling hot) and ran as faſt as he could back again to <hi>Barbaras</hi> win<g ref="char:EOLhyphen"/>dow, and there very haſtily cald for his ſwéet <hi>Barbara:</hi> deſiring her moſt hartily to let him have one kiſſe more, and he'd raiſe her no more that night: the Barber preſently ſtarted up to the win<g ref="char:EOLhyphen"/>dow again, as he had done before, and (as he had done before) ſet his buttocks cloſe to the broken paine, thinking that <hi>Smug,</hi> as he had done before would have <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſt them: but inſtead of kiſſing, or puting his lips too, he put his hiſſing hot iron to him, and made him flie from the window as faſt, as it the great Divell himſelf, and a dozen little ones had béen at his taile. Now (quoth <hi>Smug)</hi> my neat tremmer, I have trimmed you aboat the lips, as well as you have trimm'd me about the lips: as you like this, play y<hi rend="sup">e</hi> knave with me another time, and ſo farewell good plaſter-maker, hie thée home; and clap a plaiſter to it quickly, or thou't féele me when thou doſt not ſée me. When <hi>Smug</hi> had thus revenged himſelfe upon his rivall he left him crying and fretting, and w<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt laugh<g ref="char:EOLhyphen"/>ing home againe roundly.</p>
+            </div>
+            <div type="tale">
+               <head>How Smug foxt the fellow that went to cornute him in the Fox-chamber.</head>
+               <p>TWo brothers (young gallants in <hi>Edmonton)</hi> who had often made themſelves merry with <hi>Smugs</hi> company, had an equall deſire to cornute or in plain terms, to cuckold honeſt <hi>Smug</hi> éene on y<hi rend="sup">e</hi> night his weding night, not ſo much drawn to it by her beau<g ref="char:EOLhyphen"/>ty (for ſhe was but a homely Smug Laſſe) or any part or quality in her <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s a deſire they had to do him that wrongs and eſpecially upon that night: privie ſtrife was betwéen plotting and contri<g ref="char:EOLhyphen"/>ving the one to deceive and prevent the other; Vpon the weding
+<pb facs="tcp:47244:11"/> day as opportunity ſerved, the elder brother <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Bride into a corner, where he ſpent many perſwaſive words to wi<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> her to accord to his (as he called it) loving requeſt man<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of poore <hi>Smugs</hi> faults and imperfections he laid open, and withal his purſe with very large proffers to draw her on the more eaſily: but all could not doe: She lik't never the worſe of her <hi>
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mug</hi> (whom ſhe had taken for better for worſe) for y<hi rend="sup">e</hi> diſprai<gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> of him nor the better of him for all his large proffers: and therefore wild him, to give over his honeſt ſuite, and be packing: for ſhe was not a Woman (howſoever ſhe ſéemed in his eye) of y<hi rend="sup">e</hi> unchaſt diſpoſition. This &amp; many ſuch like anſwers ſhe made him, as very willing to be rid of him but could not: for he (ſcorning to ſhew <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>full bluſh) came upon her ſtill, after her croſſe anſwers with a freſh ſupply of ſmooth words, &amp; left her not till be made her (with the appoint<g ref="char:EOLhyphen"/>ment of place and mi<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>te) make him promiſe th<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> he ſhould have his deſire, but alas that promiſe pa<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> not from her heart, for <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he was of a ſetled conſcience, that no means might move herineither profer, perſon, or any other ind<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>c<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ment whatſoever, to prove falſe to her <hi>Oliver.</hi>
+               </p>
+               <p>When he had thus received his anſwer, &amp; was gone his youn<g ref="char:EOLhyphen"/>ger Brother privily ſet upon her to the ſame purpoſe, and with y<hi rend="sup">e</hi> anſwer he had was ſent away very pleaſant, but his expected plea<g ref="char:EOLhyphen"/>ſure was his pain in the end. For ſhe as ſoon as they had left her, acquinted her Gr<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>m, or her Bridegroom with their purpoſe and to <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that ten a clock was the hour, and the Foxe Cham<g ref="char:EOLhyphen"/>ber the place appointed, wiſhing him for y<hi rend="sup">e</hi> night to lye there alone in her ſtead, ready to receive them or any of them. When <hi>Smug</hi> underſtanding the knavery that was practiſed againſt him, after two or thrée ſmacking kiſſes, and thanks for her kindneſs in tel<g ref="char:EOLhyphen"/>ling it, he began to talke to himſelf in this manner. A ha my little <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Iingleſpurs would you be nibling? would you yfaith Lads, Ile have a baite ſhall baite your boldneſſe a little, Ile Foxe you yfaith come to the Fox-chamber as ſoon as you will.</p>
+               <p>To be ſhort, a little before the time appointed, <hi>Smug</hi> got him to be<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in the Fox-chamber, againſt they or one of them ſhould come: about the hour appointed, both the Brothers met in the dancing room, or Hall, for they muſt paſſe through that to the Fox, prepa<g ref="char:EOLhyphen"/>red to perform their promiſes: but this unhappy méeting had al<g ref="char:EOLhyphen"/>moſt
+<pb facs="tcp:47244:11"/> marred all, for neither of them durſt enter into the others ſight.</p>
+               <p>By and by, before a minute of the prefixed time was paſt, the younger ſlipt in whilſt y<hi rend="sup">e</hi> elder ſtood talking amongſt the dancers and to bed he went. He was no ſooner got into his Hoſteſſe (as he thought) but <hi>Smug</hi> ſtept out, and with an old dry <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oot that he had (laid ready for that purpoſe) ſo belaboured this young Mutton-munger in his ſhirt, that he had béen as good have had a ſound whipping as that baſting.</p>
+               <p>A ha quoth <hi>Smug,</hi> ile for you yfaith boy, dooſt thou think mine Hoſt of the <hi>George</hi> had a Whore to his Wife? no thou lecherous Bab<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n, <hi>Smug</hi> is better liked of in his frize or ſhéep-skin, by his own ſmug Laſſe, then ere a ſpruce ſléeked Gallant of you all.</p>
+               <p>Why I prethée good <hi>Smug</hi> (qd. the youngſter) be contented, if I have made thée a fault, I will make thée amends: Nay alas (quoth <hi>Smug)</hi> tis no fault, I rather account my ſelf, for the kind<g ref="char:EOLhyphen"/>neſſe you ſhould have ſhewn to me, in your debt, but Ile pay you ere you and I part, and about him he laid again: Then <hi>Smug</hi> made him ſlip on his clothes and beat him out of doores. When the elder Brother (who all the while he was as he thought) in the Fox chamber with <hi>Smugs</hi> Wife, ſaw how be was <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uld by her, &amp; baſted by him, be ſmiled to himſelf to think how well be was re<g ref="char:EOLhyphen"/>warded for his forwardneſſe, and how cleanly he himſelf had eſ<g ref="char:EOLhyphen"/>caped that ſcouring.</p>
+               <p>Why how now Brother (ſaid he) whats the matter? hath your Bedfellow beat you? is ſhe ſuch a Divell? how chance you ple<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſed her no better? pleaſe her (quoth he) the Divell pleaſe her and him too, they have pleaſed me a plague on them, but it would have pleaſed me better Brother, if you (as it was your deſire this even<g ref="char:EOLhyphen"/>ing) had had my place.</p>
+               <p>Why Brother you may ſee (quoth the Elder) what it is to be ſo forward in ſéeking to deceive your Elders.</p>
+               <p>Well come Brother, lets go home and fléep honeſtly, for we ſée whats got by tempting honeſty, he has taught thée, and thou haſt taught me to take héed how we enter i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>to any ſuch action a<g ref="char:EOLhyphen"/>gain. Then home they hied them hand in hand, one ſmiling and jeſting, and they together fretting and chafing, curſing poore <hi>Smug</hi> and his Wife, and the Fox-chamber extreamly.</p>
+            </div>
+            <div type="tale">
+               <pb facs="tcp:47244:12"/>
+               <head>How Smug being drunk, loſt his fellows in the Park, and how when they got together by whooping and hollowing, he took them for The<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ves, and would by no means know them till he was ſoundly thwackt by them, and made to know his friends from his foes.</head>
+               <p>ANother time <hi>Smug</hi> was fetch'd out of the Ale-houſe by Sir <hi>John,</hi> the Miller, and mine hoſt of the <hi>George,</hi> in ſuch a caſe as it had béen fitter he ſhould have gone to bed to ſléep, then to y<hi rend="sup">e</hi> Park a Déer-ſtealing, but drunk as he was they would have him along with them, for without him they were no body, he muſt néeds goe though he could hardly ſtand alone.</p>
+               <p>Well to the Park they got him with what great adoe, conſider of the caſe he was in and imagine: when they were entred into the Park, and were ready to enter upon the buſineſſe, they ſe<g ref="char:EOLhyphen"/>vered themſelves every one to his appointed ſtanding, with their weapons for that purpoſe, as Croſſe-bows, Long-bowes, and ſtaves.</p>
+               <p>
+                  <hi>Smug</hi> he was ſet (becauſe he was not in caſe to take ſteddy aime) to watch that the Kéeper came not upon them before they were aware, but while they were cloſe at their buſineſs, their cen<g ref="char:EOLhyphen"/>tinell (honeſt ſmug) forgetting both where he was, and alſo what charge he had taken in hand, went reeling down the Park, clean out of ſight and hearing. When Sir <hi>John,</hi> the Miller, and the mad hoſt had ſtruck the ſtroke, and made them all glad men, and bound their prize up hanſomely together, they went to fetch their continell, but when they came to the place where they ſet him, he was not to be found: body of me (qd. Sir <hi>John)</hi> what ſhall we do? kind neighbours and friends, what ſhall we doe? honeſt <hi>Smug</hi> with his head full of liquor is gone God knows whether, I pray <hi>Jove</hi> he be not fallen into ſome of theſe ditches, that I hope he is not (qd. mine Hoſt) he was w<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nugh before: why what a mad knave is this <hi>Smug</hi> (qd. the Miller) he is ſure aſlèep ſomewhere, faith then (qd. ſir <hi>John)</hi> we were beſt give over ſéeking for him by the eye, and try what we can do by the voice. Then they fell to whoo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and hollowing as loud a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hey could, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat <hi>Smug</hi> might
+<pb facs="tcp:47244:12"/> hear and anſwer them: a good while they went whooping and hol<g ref="char:EOLhyphen"/>lowing, but <hi>Smugs</hi> ears was two far off for th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ir voices to reach, they could by no means hear their anſwering hollow: the babling Eccho anſwered every whoope they made, but <hi>Smug</hi> not one. So long they walked whooping &amp; hollowing up &amp; down, that the diſ<g ref="char:EOLhyphen"/>coverer of every bad action, the morning was ready to diſcover theirs, and yet <hi>Smugs</hi> hollow could not be heard. At laſt when they had given over hollowing and were going without him, they heard him whoop: buſh (qd. ſir <hi>John)</hi> I think I hear his voice: from whenc comes it? maſs &amp; I hear it too (qd. y<hi rend="sup">t</hi> hoſt) but from whence I know not why then (qd y<hi rend="sup">t</hi> Miller) we were beſt by our hollow<g ref="char:EOLhyphen"/>ing to kéep him hollowing ſtill, and ſo we ſhall come to him Ile warrant you. They did as the Miller counſelled them, &amp; within leſſe then a quarter of an hour had ſight of him.</p>
+               <p>When they were come néer together, ſir <hi>Iohn</hi> (out of the love and good will we bear to <hi>Smug,</hi> 
+                  <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ept forward before his fellows, and with an out-ſtretched arm, and ſmiling countenance would have imbraced him. But <hi>Smug</hi> in his drunken humor (not know<g ref="char:EOLhyphen"/>ing him to be ſir <hi>Iohn</hi> nor the Miller &amp; mine Hoſt that followed him, to be his old honeſt familias Copeſ-mates) took him ſuch a knock ore the pate, that he made Mr. Parſon ſtag<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er like himſelf, though their cauſes were much unlike. Why how no<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Smug</hi> (qd. y<hi rend="sup">e</hi> fiery-fac'd Hoſt) wilt thou fight with thy friends? Friends (qd. <hi>Smug)</hi> foot you rogues do you come rob me? Kéepe out, kéep out I adviſe you, and you meane to go home again to ſée your Wife and Children (if you have any) kéek out, by <hi>Ph<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>raoh</hi> you all dye elſe. Why I pr<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>thy <hi>Smug</hi> (qd. the Miller) put down thy <gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>pon, we are all thy friends: I prethée <hi>Smug</hi> (qd. mine Hoſt) put thy ſtaffe on thy ſhoulder, and let's go home together doſt thou not know me? Come, give me thy hand. That I will (qd. <hi>Smug)</hi> There, &amp; knoct him ore the pate with his ſtaff; there's a hand for thée, &amp; ſtill ſtood ſtriking at him, laying about him like a mad man. When they ſaw he would by no faire intreaty come to y<hi rend="sup">e</hi> know<g ref="char:EOLhyphen"/>ledge of them, they all laid at him, &amp; wel, &amp; ſoundly baſted his ſides, &amp; by that time they had thwaekt him ſoundly, indéed his wits wer come to him. Then he knew his friends from his foes, &amp; deſired them very kindly (every man by his name) to hold their hands,
+<pb facs="tcp:47244:13"/> and very orderly and well helped his fellow thieves to beare <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>me their booty.</p>
+            </div>
+            <div type="tale">
+               <head>How Smug was deceived of his Red Cap by his Wife, and by that deceit forc'd to leave his ſwaggering Company, and go with her home to his labour.</head>
+               <p>AMongſt divers Articles that were a reed upon betwixt <hi>Smug</hi> and his Wife, is be kept unviolated on either part, this was one:</p>
+               <p>That day that <hi>Smug</hi> ha<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> his red Cap on, (which Cap he call'd his Cap of Maintenance) he was like a Lord of Miſ-rule, to have rule and dominion over his Wi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, both at home and abroad: that day he had to ſpend at his own pleaſure, to Card, Dice, Drinke, Drab, dominéer, and do all that i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> pleaſed him to doe, without any interruption, or contradiction. But without that Cap he might do nothing, but what ſtood with her good will and liking.</p>
+               <p>If at any time he were gaming, drinking, domineering, &amp;c. with<g ref="char:EOLhyphen"/>out this Cap of Authority, if his wife came into the place where he was and did but hold up her <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inger, he was preſently to give over his company, obey, and follow her home to his buſineſſe.</p>
+               <p>One morning betimes, <hi>Smug</hi> was called from his work by a company of true Toſp<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ts (like himſelf) to go a Fox-catching: Forth he went with his red Cap upon his head, ſwaggering and ſwearing, amongſt his moſt abominable bóone Companions, like the Captain of a Gally-Foiſt.</p>
+               <p>Firſt they taſted Liquor in one houſe, then in another, then another, and ſo from houſe to houſe, till they had not left an Ale<g ref="char:EOLhyphen"/>houſe in all <hi>Edmonton</hi> untaſted.</p>
+               <p>At laſt, when their brains began to be dizzie, with running <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o long in this maze of Good-fellowſhip, (as one evill leads to ano<g ref="char:EOLhyphen"/>ther) they went all as wiſe as Woodcocks to a houſe of Iniqui<g ref="char:EOLhyphen"/>tie, and there they drunk and ſwaggered helter skelter: And to make them leap the more luſtily, they ſent for a noiſe of Min<g ref="char:EOLhyphen"/>ſtrels: and after that pittifull noiſe, the Treble and the Bag<g ref="char:EOLhyphen"/>pipe, they danced all out of meaſure. One while this creaking Muſick would go créeping after them, like a tyred follower af<g ref="char:EOLhyphen"/>ter his leader, and another while it would run ſo faſt before
+<pb facs="tcp:47244:13"/> them, that they were fain to run more then a Lacquey pace to o<g ref="char:EOLhyphen"/>vertake it.</p>
+               <p>In y<hi rend="sup">e</hi> midſt of this merry paſtime came Smugs Wife fretting &amp; chaſing into the Roome, to fetch him home, but <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y no means he would give over his paſtime, it was his day, and he would ſpend it at his pleaſure.</p>
+               <p>When ſhe ſaw he was ſo far in, that he could hardly be got out, ſhe fell to intreating, deſiring him very kindly to go along home with her: but the more ſhe intreated, the more he ſtood againſt her.</p>
+               <p>Why thou confounding Cockatrice (ſaid he) do<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t thou not ſée my Cap of Maintenance, my Scarlet coloured Cap? am not I to do my plea<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ure, without check or controule, ſo long as this Cap is on my head? Away, beg<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n, or by the life of <hi>Pharaoh</hi> Ile he humble thee: I tell thee, ſo long as this Cap is on my head, I will not be croſt in mine humour.</p>
+               <p>Then ſhe perceived it was but a folly to ſéek by intreaty to get him home, and yet ſhe was very loth to leave him behind her in that diſordered Company. A good while ſhe ſtood muſing with her ſelfe, what ſhe were beſt to do to get him along with her: in vain ſhe ſtudied not, for her ſtudy begat a trick that effected her will, and that was this:</p>
+               <p>She took her man <hi>Ralphs</hi> Gray Cap from his head, and very handſomely, when ſhe ſaw her Husband was <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e in talk (and had loſt the ſenſe of his feeling) ſhe took his Red Cap off, and put the Gray Cap on, in the ſtead of it. When ſhe had ſo done, ſhe plac'd her ſelf right before him again, and held up her finger; for aske before ſaid) at the holding up of her finger he was to fulfill her pleaſure, his Red Cap being from him.</p>
+               <p>When <hi>Smug</hi> ſaw her finger up againe (little thinking of her ſubtiltie) he was very angry, and out of his anger ſaid thus unto her: How dareſt thou preſume to hold up thy finger, and ſée this, (pointing to his Red Cap, as he thought?) Down with that finger, or Ile ſet down finger and body and all, by the life of <hi>Pharoah;</hi> now by broad-cheek'd <hi>
+                     <gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>cchus,</hi> that ſweet ſwilling God of Good fellows I will: ſhall I be croſt in my humors? If my Red Cap were at home, and <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>here, I would obey thee: but being both here, I will not.</p>
+               <pb facs="tcp:47244:14"/>
+               <p> Why you are deceived (qd. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he) your Red Cap is not here, and therefore you muſt and ſhall along with me: look here, is this your Red Cap (ſaid ſhe?) and took it from his head to ſhew it him; I pray you look upon it well.</p>
+               <p>When <hi>Smug</hi> had looked well upon it himſelf, and had asked y<hi rend="sup">e</hi> Miller and the merry Prieſts Iudgement of the colour of his Cap, and found it to be a Gray Cap he looked as pale as a poore reſpairing Debtor at the ſight of a Sergeant, or his cut-throate Creditor, and preſently yeelded, made a low leg, took his leave of his Company as handſomely as he could, and réeled home with his Wife very lovingly.</p>
+            </div>
+            <div type="tale">
+               <head>How Smug was taken by the Watch, and ſet in the ſtocks for abuſing of them, and how he kept ſuch a coyle with whooping and hollowing under a ſick womans window, that the Conſtable was fain to ſet him at liberty, and glad to be ſo rid of him.</head>
+               <p>DRinke and good Fellows had kept <hi>Smug</hi> out ſo late one night, that the Watch, as he walked homewards, had him in examination, both where he had béen, and about what buſi<g ref="char:EOLhyphen"/>neſſe.</p>
+               <p>
+                  <hi>Smug</hi> half <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>el'd, or (as many term it) ſome what rugged, anſwered every demand very croſſely: whereupon the Watch<g ref="char:EOLhyphen"/>men (as men in Authority will) taking it for a great preſump<g ref="char:EOLhyphen"/>tion, that he ſhould anſwer them ſo unhappily, grew very cho<g ref="char:EOLhyphen"/>lerick, and in their heat of anger ſtruck him, and heaves him, and ſhoved him betwéen them, as they would have <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ook him to <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ters.</p>
+               <p>But, as <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>efore this rigorous uſage, he could not well brooke their words, he could now well worſe brook their <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>owes, and therefore reſolved, as before he had given them one croſſe word for another (I, and perhaps returned them with the vantage) ſéeing they were ſo ready to give blows, to give them blow for blow. So long he laid about him with his Mammer, (for that was his <hi>Morglay)</hi> that ſcarce two of halfe a dozen that began with him, would ſtay to make an end with him.</p>
+               <pb facs="tcp:47244:14"/>
+               <p> By and by came the Conſtable, with the bloudi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Runawayes, to bear <hi>Smug</hi> to the Stocks (which ſtood under the Conſtables Window) with much adoe they drag'd him to them, and with as much adoe got in his leg.</p>
+               <p>When they had thus ſet him faſt, they left him, and every man return'd to his place againe.</p>
+               <p>Being thus left alone, he fell to ſinging, to paſſe away the time as merrily in the ſtocks, for once, as he had done in the Ale-houſe many a time and oft: He was as well furniſhed with odde pieces of b<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>dy Ballads, and drunken Catches, as a man of his profeſſi<g ref="char:EOLhyphen"/>on might be: which he ſo roundly trould out as he ſate, that the Conſtables Wife was faine to ſend down her Maid to deſire him to ſit quietly, and hold his tongue. Howe hold my tongue (ſaid <hi>Smug)</hi> no: though Maſter Conſtable have a trick to force me to hold my legs ſtill, he wants a trick to make me hold my tongue ſtill.</p>
+               <p>But I prethée Wench, tell me from whence, or from whom comeſt thou, to bid me hold my tongue. Marry (ſaid the Maid) I dwell here; you ſit under the Chamber Window where my Miſtris (who ſent me) lyes very ſick: How ſick (quoth <hi>Smug)</hi> I prethée tell me Laſſe, who is thy Miſtris? Marry (quoth <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he) the Conſtables Wife: How? (ſaid <hi>
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mug)</hi> the Conſtables Wife? What? his Wife that ſet me here? I even his Wife (quoth the Maid) therefore I prethée good fellow be quiet. O I will, I will, (ſaid <hi>Smug)</hi> go tell thy Miſtris I will not ſing one Song more to diſturb her: I prethée doe not good fellow) (quoth the Maid) and ſo went up againe to her Miſtris. She was ſcarce in the Chamber with her Miſtris, delivering his anſwer but he was as loud and far louder then he was before, though not in the ſame manner, becauſe of his promiſe: for he had turn'd from bawling like a Ballad-ſinger, to ſhouting, whooping and hollowing like a Forreſter. Such a noyſe he made as he ſate with hollowing and whooping (as is if he had been a hunting) that Maſter Con<g ref="char:EOLhyphen"/>ſtables ſick Wife could by no meanes take a minutes reſt by him.</p>
+               <p>Twice or thrice ſhe ſent her maid down to him againe, to de<g ref="char:EOLhyphen"/>ſire him to he quiet: but as often as ſhe ſent, he ſtrained himſelfe to raiſe his voice higher.</p>
+               <pb facs="tcp:47244:15"/>
+               <p> Nay yfaith (qd. <hi>Smug)</hi> your Husband ſet me here I thanke him, and doe you thanke him, if I be a trouble to you, for ſetting me ſo néere you: Blame not me, for yfaith I muſt be doing ſomewhat to make my ſelfe merry. When he had thus told her his minde, hee fell to whooping and hollowing a<g ref="char:EOLhyphen"/>gaine.</p>
+               <p>Then ſhe ſent for her Husband, thinking by his preſence to ſtill him: but he being with him, <hi>Smug</hi> was ten times worſe then when he was from him (for he played the knave ſo on pur<g ref="char:EOLhyphen"/>poſe to croſſe him.)</p>
+               <p>When Maſter Conſtable ſaw, that neither faire means, nor foule, could make him hold his tongue, and that by the noyſe he made his Wife grew worſe and worſe; he commands his Beadle (or ſome other under Officer) to let him out, and deſired him ve<g ref="char:EOLhyphen"/>ry kindly to go quickly home to his dwelling.</p>
+               <l>Thus honeſt Smug by's knaverie,</l>
+               <l>Go<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'s heeles again at libertie.</l>
+            </div>
+            <div type="tale">
+               <head>How knaviſhly Smug was dealt with by three or foure of his fellow Drunkards, and how he broke the Glaſſe that ſhewed him the ſhadow of his one face.</head>
+               <p>SMug in his time had played many mad pranks by many, and one day it was his chance to light into the company of thrée or foure mad conſorts, that played the knave as well with him, as ever he had play'd the knave with any.</p>
+               <p>When they had ſpent a fore-<gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>n in quaffing together, and fill'd him with liquor, (which he was very eaſily intreated to take) and fill'd him ſo full, that he was too heavie to ſtand or goe, they led him out of the Ale-houſe into the Church-Porch, and ther laid him all along upon his back upon a Bench. Under his head (inſtead of a Cuſhion, or a pillow) they put a Cric<g ref="char:EOLhyphen"/>ket, or a litte Joynt-ſtoole, (ſuch as Children uſe to ſit on in the Chimney-corner) and under his féet, a great rough-hewed Free-ſtone.</p>
+               <pb facs="tcp:47244:15"/>
+               <p> Yet as hard as they laid him, he ſlept as ſoundly, as if he had béen laid down upon a bed of Down; and lay with ſuch a grace, as few Smiths (I can tell you) can lye: for he had upon his head his Red Cap, his Cap of Maintenance, buttoned up before, with a faire Feather of a Peacocks Tayle in it, bound about with a Carnation ſilk Ribband; his Leather Apron turn'd round toge<g ref="char:EOLhyphen"/>ther, and wound about his middle: his Hammer hanging (Han<g ref="char:EOLhyphen"/>ger-like) by his ſide, and both his hands in his pockets.</p>
+               <p>Thus lay <hi>Smug</hi> at length, like y<hi rend="sup">e</hi> Image of Duke <hi>Humphrey,</hi> over his long agoe conſumed Carkas, or his Duſt, Earth, and Aſhes.</p>
+               <p>Had honeſt <hi>Smug</hi> (thus lying) béen grated about, with ſome pittifull Epi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aph, or Deaths-Head, and <hi>Memento Mori,</hi> and his ſléep laſted as long as the ſléep of one of the Seven Slée<g ref="char:EOLhyphen"/>pers; I am perſwaded he would have had more Spectators then the richeſt Monument that ſtands either in Saint <hi>Pauls</hi> Church, or <hi>Weſtminſter.</hi>
+               </p>
+               <p>But to the matter: when (as he lay thus) the mad crew that layd him ſo, ſaw he was as déep in Sléepe as Drink, they be<g ref="char:EOLhyphen"/>gan to work their wills upon him in this manner:</p>
+               <p>They got a good handfull of ſmall Coa<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s which they beat to powder, and having <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>at them to powder, put them into a diſh of faire water<g ref="char:punc">▪</g> when they had Well-mingled (like right dawbing Painters) their Small-Coale powder, blacking, and Water toge<g ref="char:EOLhyphen"/>ther, and made a perfect Coale-black, without either Size or any ſuch like ſelling Stuffe, they ſayd it on his face, which was rea<g ref="char:EOLhyphen"/>ſonable black before, not leaving ſo much white or red to be ſéen as a ſmall pins-head will cover.</p>
+               <p>When they had thus he blacked and b<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſmouched him, with his Divels look, they left him (ſnorting on the Porch-Bench) till he ſhould either wake of himſelf, or be waked of the Sexton, or ſome other kind of bald-pated Officer.</p>
+               <p>There he ſlept foundly thrée or foure hours without moving; till at laſt, with a remove that removed him from the Bench to the ground, he waked, &amp; after long ſtretching, reaching, and yawn<g ref="char:EOLhyphen"/>ing, got upon his féet.</p>
+               <p>But alas, when with much adoe he was got up, he had as much adoe to ſtand: yet out of the Church-porch he made a ſhift to
+<pb facs="tcp:47244:16"/> ſtagger, and up into the ſtréet. When he was ther<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> (réeling home<g ref="char:EOLhyphen"/>wards to his own houſe) the Boyes at play in the ſtréet ſpyed him: at the firſt ſight halfe afraid of his black face, they ran apace away from him; yet at laſt, when a great companie of them were gathered together, they turned to him again, and followed him cloſe, ſhouting and crying after him, Divell, Divell, Di<g ref="char:EOLhyphen"/>vell.</p>
+               <p>When <hi>Smug,</hi> as drunk as he was, heard them call him Divell, Devell, Divell, he marvailed much in his mind wherefore they called him ſo (for alas he knew not:) Had they called him Drunkard, it would never have grieved him; for that he knew to be his ordinary Title.</p>
+               <p>Still followed the boyes at his héeles, (crying as they begun) Divell Divell, Divell, throwing old ſhooes, Boo<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s, and Pi<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>le ſtones after him: ſo long they followed him, that they made him (whole drunk) <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>alfe mad; yet all he could doe, he could not mend it: The boyes loded him ſo well, they would not leave him till they ſaw him at his doore.</p>
+               <p>His Wife (buſie within) bearing the noyſe and ſhout the boyes made, looked out, and ſpyed her own ſwéet Husband in that ſwéet taking preſently ſhe got him in a doores, and there began (very prettily) to make uſe of her tongue to him. After many brabling words betwéen them, ſhe ſhewed him a glaſſe, in which he ſaw the ſhadow of his face, in that moſt pittifull caſe.</p>
+               <p>Then <hi>Smug</hi> began to ſwear (not like a Smith I can tell you) Gogs Nowns, Foot and nailes, thou moſt abomi<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nable whore, doſt thou ſhew me the Divell, to fright me from that little ſtore of wit which I have? and thy Divell were ten Divels, I am not afraid of him, and that thou ſhalt quickly ſée: With that he took his Hammer from <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is ſide, (ſtill ſéeing his own ſwée<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſhadow in the Glaſſe, which he took to be the Divell (ſtruck at it, and with one blow clattered the Glaſſe all in pieces.</p>
+               <p>Now you Whore (ſaid he) where is your Divell now? I think I have mauld him I faith: Bring your Divels to me, doſt th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u? Thou whore doſt thou. Alas ſwéet <hi>Smug</hi> (quoth ſhe) ſéeing him ſo very much moved, be patient I prethée ſwéet Chuck, and ſhow<g ref="char:EOLhyphen"/>ing him the <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rackt frame: look here, here is no Divell: therefore I prethée ſwéett <hi>Oliver</hi> be quiet.</p>
+               <pb facs="tcp:47244:16"/>
+               <p> Nay (quoth <hi>Smug)</hi> Ile tickle your Divels, yfaith; and your Di<g ref="char:EOLhyphen"/>vels come to <gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>eſt <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> within mine owne Houſe, upon mine own ground, Ile Divell them.</p>
+               <p>Come good ſwéet heart (quoth ſhe) now thou haſt beaten the Divell away, let us go to bed, after a quarter of an hours fret<g ref="char:EOLhyphen"/>ting, with very good words ſhe got him to bed.</p>
+               <p>In the morning when ſhe knew his ſléep had made him ſober, ſhe ſhewed him his black face in another Glaſſe; which when <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e ſaw, and knew well what he ſaw, he bluſht; but the <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſt was it could not to ſée<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, till his <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>izard was taken off with faire w<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and ſoape: then he confeſt himſelf faulty, promiſed amends, and we<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t very cloſe to his labour.</p>
+            </div>
+            <div type="tale">
+               <head>How cunningly Smug ſcaped the Keeper, and others that pur<g ref="char:EOLhyphen"/>ſued him, and made him run up and down from place to place to ſeek him in vain.</head>
+               <p>
+                  <hi>SMug</hi> and his and <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rew of Veniſon-<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aters, one night being at their <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, were ſuddenly ſet upon by their old Enemy y<hi rend="sup">t</hi> Kéeper, &amp; two or thrée more; that after they had taken great pains to get their prey, &amp; bound it up handſomely ready to bear it away, they were forc'd to <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> them, for fear of a fur<g ref="char:EOLhyphen"/>ther miſchief. The Miller he r<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n one way, and nimble ſir <hi>John</hi> in his <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uckram <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, another way, and <hi>Smug</hi> another way, as fa<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> as if they had him <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> up to running all their life time. They had no time to take their leave one of another, or appoint a place of <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</p>
+               <p>As thoſe <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> took ſeverall ways to run, ſo the Kéeper and his <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> themſelves to purſue them, one far af<g ref="char:EOLhyphen"/>ter the Miller, mo<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>er after ſir <hi>John,</hi> and two or thrée after <hi>Smug</hi> for he was the <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ly <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> they looked for, though all them were kn<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n to the Kéeper well enough<g ref="char:punc">▪</g> The Miller be r<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n not far, ere he was ſtay'd with a good p<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>: Sir <hi>John<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> followers followed <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o cloſe, that he was <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to leap for his liberty over a ditch: over he ſhould have <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> a ſhort leap layd him <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> along in ditch and ſo he was ſtay'd and taken up with never a drye<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o on him<g ref="char:punc">▪</g> 
+                  <hi>Smug</hi> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> homewards, followed at the héeles <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y the Kéeper and another, yet they could not overtake him.</p>
+               <pb facs="tcp:47244:17"/>
+               <p> When he was got to Edmonton, with running to and fro up one Lane, and down another; he got out of the fight of his purſu<g ref="char:EOLhyphen"/>ers: but it was ſo late, he could not get into any houſe to hide him, ſave his own: and into that he durſt not goe, fearing they would go thither to ſéek him.</p>
+               <p>A pretty while he ſtood ſtudying which way to ſhift for himſelf reſol<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing one while to do this thing, another while that, another while another. At laſt, ſtanding thus in a brown ſtudy, turning his eyes firſt one way, then another way, one while up, another while down, he ſpyed the ſign of the White <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orſe: not painted upon a board (as they uſe to be here in the City.) but faſhioned out of Timber, and ſet gallantly over the Digne-poſt. Maſſe (quoth he) I care not greatly, if I get up and beſtride this White Horſe, and make another S. <hi>George</hi> here in <hi>Edmonton:</hi> Ile doe it yfaith, it may be I may ſit ſafer ſo then any way elſe; if I doe, I do: if I no not, I know the worſt on't, 'tis but wearing two ſtocks upon one leg, and I am as well able to endure it now as ere I was. Vp to the White Horſe he get and back'd him brave<g ref="char:EOLhyphen"/>ly, with his arm ſtretch'd out, his hammer in his hand in ſtead of a Sword, and the Lippit of his Red Cap tyed under his Chin, which ſtood for his Helmet moſt featly.</p>
+               <p>While he ſet thus gallantly ſt<gap reason="illegible" resp="#APEX" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ing upon his Woodden horſe (yet no Hobby-horſe) the kéeper that followed him ſo cloſe, to have gotten him into his kéeping (with the other that was with him) went peaking and prying in every <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of y<hi rend="sup">e</hi> ſtréet to <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d him: twice or thrice (backward &amp; forward<g ref="char:punc">▪</g>) they went under him, and yet could not ſée him, but he ſaw them well enough.</p>
+               <p>When they had loſt an h<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rs labour, or thereabouts in ſéeking after him without doors, they reſolved another while to ſéek him within: Come ſaid the Kéeper to the other; let us go ſearch the Inns, and firſt this, this White Horſe is his daily haunt, &amp; there<g ref="char:EOLhyphen"/>fore it may be we ſhall find him here this nighte<gap reason="illegible" resp="#APEX" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> let us in.</p>
+               <p>As the Kéeper was going into the White Horſe (under <hi>Smug)</hi> his fellow looking up, had him ſtay, ſtay: quoth the Kéeper, where<g ref="char:EOLhyphen"/>fore ſhould I ſtay? Why look you (ſaid the other) this is not the White Horſe as you take it to be, this is the <hi>George.</hi> Maſſe (qd. the Kéeper) 'tis the <hi>George</hi> indéede come let's over to the White-Horſe. When they had croſt the Way, (as they thought to the
+<pb facs="tcp:47244:17"/> White Horſe) they found the <hi>George</hi> againe. Zounds (qd. the Kéeper) <hi>Jack,</hi> this is the <hi>George</hi> too. What? have we two <hi>Georges</hi> in <hi>Edmonton?</hi> Foot man, where are we? If this be <hi>Edmonton,</hi> here was but one <hi>George</hi> yeſterday, and the white Horſe over againſt it, now here are two <hi>Georges</hi> one againſt another; this is ſtrange: 'tis very ſtrange indéed (quoth the other.) Bones man are we not at <hi>Hodſdon?</hi> For thou know<g ref="char:EOLhyphen"/>eſt the two <hi>Georges</hi> are in <hi>Hodſdon.</hi> Maſſe thou sayeſt true, <hi>Jack;</hi> and by theſe Signes, this ſhould be <hi>Hodſdon.</hi> Come come. (quoth the other) we miſtooke our way t<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the darke: this is <hi>Hodſdon;</hi> come, let's up to <hi>Edmonton.</hi> Content (qd. the Kée<g ref="char:EOLhyphen"/>per) and together they ran as faſt as they could to <hi>Hodſdon,</hi> to find <hi>Edmonton.</hi>
+               </p>
+               <p>When <hi>Smug,</hi> who heard all their talke (and ſate laughing, ready to bewray himſelfe with laughter ſaw them trudging towards <hi>Hodſdon,</hi> be gat down from his <hi>white Horſe,</hi> and went to bed, leaving them in their Wild-Gooſe-Chaſe, to ſéek him.</p>
+               <p>When they were come to <hi>Hodſdon,</hi> there they ſaw the two <hi>Georges</hi> too, for there the Signes ſtood indéed, then they chaſed, ſwore, and ſtampt like mad-men, curs'd poore <hi>Smug</hi> and his company, and vowed to be the death of him if e're they could take him handſomely. There they tooke up their Lodging for that night, and the next morning went home to their buſineſſe.</p>
+            </div>
+            <div type="tale">
+               <head>How Smugs Wife locked him in a Doores, when hee would have gone abroad a Swaggering, and what ſhift he made to get out and amongſt them.</head>
+               <p>
+                  <hi>SMug</hi> one-day very early prepared himſelf to go abroad, ac<g ref="char:EOLhyphen"/>cording to promiſe the day before a Drinking: and to go handſomly, he tricked himſelf vp in his holiday Sute, put on a cleane Band &amp; his red-Cap that he might go through ſtitch with his buſineſs, without croſſe, or controulement. But alas, even as he was ready to go downe the ſtaires, his Wiſe per<g ref="char:EOLhyphen"/>ceiving his intent, preſently to croſſe him, ſtept out of the Chamber before him, paſſed the bodie after her, and lockt him in: now, ſaid ſhee, and p<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n be hot with anger, walke vp
+<pb facs="tcp:47244:18"/> and downe and coole your ſelfe; If your walke tire you, lye downe and reſt you, for you ſhall reſt upon no Ale Bench this day.</p>
+               <p>This croſſe déed and theſe cutting words of hers vext him, that he was almoſt in a bad a caſe with fretting, as hee had been the day before with drinking; yet he ſaw there was no remedie but patience, for neither faire words nor foule could make her turne the Key to let him out.</p>
+               <p>From the time he roſe till almoſt Dinner time, he walked vp and downe in his Chamber, cha<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ng, fretting, and mum<g ref="char:EOLhyphen"/>bling like poore <hi>Tom of Bedlam</hi> in his Barne, or bowſing Inne.</p>
+               <p>At laſt (to croſſe his Wife aſwell as ſhe had croſt him) he tooke an empty Can that ſtood by upon a little Table tyed it to the end of a long ſtring: and put it out at his Chamber-window; where it hung dangling like the poore mens Box al <hi>Ludgate,</hi> and he himſelfe, like the bawling Box<g ref="char:punc">▪</g>man, ſtood péeping through his Lattice, crying, <hi>For the Lords ſake, for the Lords ſake, good people, pitty a poore Priſoner;</hi> making his Can daunce at the end of his whip cord, with drawing it vp and downe as nimbly as one of the little thred Puppits in the lamentable Motion of <hi>Dives</hi> and <hi>Lazarus.</hi> Well, there he ſtood in this manner bawling and yawling, fill he had drawn as great a company of people together, as the babling of a cheating Mountebanke, or the foule-fur'd, throat of an itchis Ballad, ſinger in a Faire or Market-time. To conclude, when his Wife ſaw ſuch a company of people, Men, women and children gathered about him, ſhe (poore wretch) aſhamed to heare him, and vext at thoſe that ſtood gaping about him, in a cha<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ng heat as ſhe lockt him in, let him out, and was glad to be ſo <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d of him.</p>
+            </div>
+            <div type="tale">
+               <head>How Smug was revenged on his Wife, for Locking him in a doores.</head>
+               <p>THe day ſucceeding this vnkind Croſſe, Smug roſe againe very early, and put on working day apparell, with his old
+<pb facs="tcp:47244:18"/> Shéepes-Ruſſet-Button-Cap, and went to worke as hard as if he had wrought for a wager; he laboured at the Forge (but 'twas to forge a piece of Knaverie) till his ſweaty face <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>éeked againe. All the day long wrought he thus hard with<g ref="char:EOLhyphen"/>out any ſtop, ſtay, or hinderance: nay, which is more to be wondred at he dranke not above thrice all day and that was as hee uſed to call it, ſmall comfort, commonly called ſmall Béere.</p>
+               <p>His Wife to ſée him work ſo cloſe (as ſhe very well might) mervailed and gave him as kind words as he could wiſh for, and ſware by the faith of her body, ſhe was glad to ſée ſuch a ſudden alteration. He ſtill plying his worke, gave her good words for her good words, very kindly.</p>
+               <p>When his labour had brought on the Evening (which brings an end to labour) he very kindly requeſted his Wife to walke with him, to nip themſelves a little in the Eve<g ref="char:EOLhyphen"/>ning for it was a very fine froſtie Moone-light evening: ſhe very kindly tooke his kind requeſt, and went with him.</p>
+               <p>Very lovingly they walked together, arme in arme out at the Townes end, one while this way; and another while that even as it pleaſed him (her moſt vertuous Leader) to leade her. They walked thus lovingly vp and downe together ſo long, that there was no Candle burning nor one eye open in all the Village; then home apace he hyed him. When hee was come to the doore, ready to enter, he ſent his Wife on a ſléeveleſſe Errand to the Turning-Stile, to his honeſt neighbour <hi>Noddamus:</hi> while ſhe poore woman, was about his bidding, miſtruſting no Knaverie to be done againſt her, he preſently turn'd the Key on the out-ſide to let himſelfe in, and on the in-ſide to lock her out.</p>
+               <p>When ſhe was returned from the place afore-named and found the doore lockt, and the Key ſticking in the in-ſide, ſhe knockt, and with her knocking call'd; but boneſt <hi>Smug</hi> lay ſnug, and would neither riſe to let her in nor make her any anſwer. Then ſhe knew not what to doe, but (as Women doe wanting their wills) ſafe and cryed, to eaſe her ſtomack. His reſolution was ſet to make her ſit all that Night, to
+<pb facs="tcp:47244:19"/> knock her héeles and blow her nayles at the doore, like a poore back-bitten Stall-créeper: Never did ſhe chatter better with anger, then ſhe did at that time with the coldneſſe of the weather, that made her téeth goe faſter then her tongue.</p>
+               <p>When ſhe ſaw, that neither reaſonable knocking, nor un<g ref="char:EOLhyphen"/>reaſonable calling could raiſe him, ſhee tooke vp a great Flint-ſtone, and beat againſt the doore, as though ſhe would have beat it downe. Then <hi>Smug</hi> ſtarted vp to the window in his ſhirt, and very ſtrangely asked, who it was kept ſuch a bounſing at the doore? Marry good-man Drunkard, quoth ſhe, it is I that knocks: Wherefore haſt thou lockt me out? Nay firſt, quoth <hi>Smug,</hi> anſwer me, Wherefore didſt thou lock me in? 'Twas ſo lately done, I am ſure thou haſt not forgot it; or if thou haſt, thou ſéeſt I have not.</p>
+               <l>Thou lockedſt me in, and J have lockt thee out,</l>
+               <l>Good Agnis walke,—goe walke about.</l>
+               <p>So, talke no longer; for I ſweare by my Red-Cap, and by <hi>Bacchus,</hi> the god of good Liquor, I meane to kéepe thée out all night, as thou kept'ſt me in all day: and ſo ſwéet <hi>Agnis,</hi> till betwéene Seven and eight in the morning, farewell.</p>
+               <p>To bed went hee againe, and left her to ſhift for her ſelfe till morning: how they agreed when they came together, I know not; but you may judge, ſhe ſcarce tooke it patiently.</p>
+            </div>
+            <div type="tale">
+               <head>How Smug quarrel'd with his Fellowes, and was ready to fight about the ſinging of a Catch: and how till they turn'd it to his mind, he would not be quie<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed.</head>
+               <p>
+                  <hi>SMug</hi> one day being very merry with his honeſt ſwilling Aſſociates, from Drinking fell to Singing; and a<g ref="char:EOLhyphen"/>mongſt all the odde Ale-houſe Catches they had vp, this was one, <hi>Jle tye my Mare in thy ground:</hi> this, <hi>Ile tye my Mare in thy ground,</hi> was <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oſt ſo long to and fro betwéene <hi>Smug,</hi> the Mil<g ref="char:EOLhyphen"/>ler, and the merry Parſon, that <hi>Smug</hi> had forgot that he was ſinging a Catch, and began to quarrell with the Parſon, thinking verily hee had meant (as he ſaid in his Song) to
+<pb facs="tcp:47244:19"/> 
+                  <hi>tye his Mare in his ground.</hi> Will you <hi>tye your Mare in my ground</hi> (ſaid <hi>Smug?)</hi> the Parſon ſung ſtill, <hi>Ile tye my Mare in thy ground:</hi> In <hi>my ground,</hi> ſaid <hi>Smug?</hi> ſtill went the Parſon for ward with his Catch, <hi>Ile tye my Mare in thy ground, &amp;c.</hi> Then <hi>Smug</hi> began to ſwagger indeed, and ſwore, If he tyed his <hi>Mare</hi> in his ground, hee would make his Cap and Scull cleave together: beſides, hee would give his <hi>Mare</hi> ſuch a Drench, that after that Drinke, ſhe ſhould never eate more. The Parſon ſeeing <hi>Smugs</hi> rage increaſing with very good words intreated him to be patient, and caſt away Choller; for as I am an honeſt Sir <hi>John,</hi> and a boone Companion, I meant no harme in the world: I did but ſing the Catch, as the Catch was. But all theſe kind words and intreaties could not winne <hi>Smug</hi> to patience, till Mr. Parſon turn'd his Song, and himſelfe in ſinging, from him to the Miller: Then they were as good friends as could be, and in kind<g ref="char:EOLhyphen"/>neſſe, went againe to drinke together, till they were all laid drunke to ſleepe.</p>
+            </div>
+            <div type="tale">
+               <head>How Smug being drunke in his Bed, piſt upon his Wife through a Cullender, taken in ſtead of a Chamber-pot.</head>
+               <p>LAbouring at the Liquor all day, many times tyred <hi>Smug</hi> farre worſe then his labour at the Forge, as it was of<g ref="char:EOLhyphen"/>ten ſeene by him; but moſt eſpecially at this time, that I am now to ſpeake of: For at this time bee had laboured ſo hard (and no body blame him, for he ceaſt not from morning till night) that his legges were not able to beare him to his Bed. But what be could not doe himſelfe for himſelfe, the helping hands of ſome kind Neighbours and friends did: in Bed they layd him, and left him, to get that ſleeping that he loſt waking.</p>
+               <p>There lay be grunting and groaning like a Hog in a Stye, turning to and fro, from one ſide of the Bed to the tother: for the Liquor wrought ſo within him, that hee could not ſleepe, as he us'd to drinke, ſoundly for the life of him.</p>
+               <pb facs="tcp:47244:20"/>
+               <p> Within halfe an houre after he had lyen thus tumbling and toſſing, as if he had lyen upon Nettles, his Wife went to Bed to him, to reſt her after her (indeed) true Labour: But (poore Woman) ſhe found leſſe reſt there then in her labour; for hee kept ſuch a retching and ſtretching himſelfe, ſuch a hunching and punching with his Legs and elbowes, that ſhe might have lyen better at eaſt betweene two <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ad-men, then by him in that taking.</p>
+               <p>As he lay thus labouring (laden and over laden) with the Liquor he had taken the liquor lay labouring within him for vent; Which though hee could very hardly riſe to give it handſomely, yet hee did his goodwill, and reach'd out of the Bed for a Piſpot; but in ſtead of a Piſpot he tooke a Cul<g ref="char:EOLhyphen"/>lender (that ſtood cloſe by his Bed-ſide upon a Settle) and kneeling upright in his Bed, let his ill-digeſted Liquor run as freely into it, and through it, upon his <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>umbring Wife, as a Conduit-pipe at waſte.</p>
+               <p>She preſently (feeling her ſelfe warme wet) ſtart up and began to brabble with him, and cry ſhame upon him, for do<g ref="char:EOLhyphen"/>ing ſuch a beaſtly deed.</p>
+               <p>Why thou Whore (quoth <hi>Smug)</hi> wilt thou not give mee leave to piſſe? If thou croſſeſt my humour but with two croſſe words more, Ile breake the Piſſe-pot about the pate of thee, therefore be quiet.</p>
+               <p>But for all his threatning, ſhe would not h<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ld her tongue; That ſhe kept walking ſtill, till <hi>Smugs</hi> fiſts walked about her eares.</p>
+               <p>There was ſuch a ſore Ba<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>taile in the bed between them, as I thinke never was ſeene between Bed fellowes before; and had not a Candle and a cleane paire of Sheets beene quickly carried up to part them, there would have been great bloud-ſhed.</p>
+               <closer>
+                  <signed>THO: BREVVER.</signed>
+               </closer>
+            </div>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:47244:20"/>
+            <head>SMUG'S <hi>Ghoſt,</hi>
+            </head>
+            <lg>
+               <l>VVHen with the Ayrie Eſſence ſempiterne,</l>
+               <l>You might a Body (now is duſt diſcerne)</l>
+               <l>I was of many ſet by for Mirth:</l>
+               <l>Good Company I lov'd with all my heart,</l>
+               <l>And like a boone Companion play'd my part,</l>
+               <l>(It was fore ſpoken at my houre of Birth.)</l>
+            </lg>
+            <lg>
+               <l>Heart-eating ſorrow ne're with me remain'd,</l>
+               <l>While I your ſhape, as I have ſaid retain'd,</l>
+               <l>My Cogitations were all Airy light:</l>
+               <l>I ne're lov'd Hoarder, nor the hoarding ſinne,</l>
+               <l>That coyne my labour brought me one day in,</l>
+               <l>I ſpent in pleaſure e're the next dayes night.</l>
+            </lg>
+            <lg>
+               <l>Mad Mr. <hi>Peter,</hi> and my Red fac'd <hi>Hoaſt,</hi>
+               </l>
+               <l>My dapper <hi>Parſon,</hi> whom of all I moſt</l>
+               <l>Entirely loved for his merry vaine:</l>
+               <l>And <hi>Banks</hi> the Miller that poor thin check'd knave,</l>
+               <l>That holpe to beare my body to the Grave,</l>
+               <l>Were men of mettle, of a perfect ſtraine.</l>
+            </lg>
+            <lg>
+               <l>Theſe men and I, made up a matchleſs Crew</l>
+               <l>For merry Meetings, till the ground look'd blew<g ref="char:punc">▪</g>
+               </l>
+               <l>We'd ſit and ſend, our ſoaking Healths about:</l>
+               <l>We'd ſometime Thieve together in the darke,</l>
+               <l>To fetch a feaſt of Veniſon from the Parke,</l>
+               <l>And where we came we made a fearfull rout.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Then grant my</hi> Ghoſt <hi>this, though our bones be rotten,</hi>
+               </l>
+               <l>
+                  <hi>Our Names may live, and never be forgotten.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="illustration">
+            <pb facs="tcp:47244:21"/>
+            <l>Here<hi> SMVG </hi>the<hi> SMITH, </hi>with leave of his Hoſt:</l>
+            <l>Doth baffle the Keepers, vpon a Signe-Poſt.</l>
+            <p>
+               <figure/>
+            </p>
+            <p>LONDON, Printed for <hi>Francis Coles,</hi> dwelling in the Old-Baily, 1567.</p>
+            <pb facs="tcp:47244:21"/>
+         </div>
+      </back>
+   </text>
+</TEI>
